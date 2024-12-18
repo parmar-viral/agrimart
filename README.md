@@ -1,8 +1,9 @@
 # agrimart
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/25/4e/f4/254ef4dc02c60051cd01254e8b532d7e.png" align="center" style="width: 100%" />
+<img src="file:///home/viral/Downloads/Screenshot%202024-12-18%20at%2008-05-11%20Agrimart.png" align="center" style="width: 100%" />
 </div>  
+//"https://i.pinimg.com/originals/25/4e/f4/254ef4dc02c60051cd01254e8b532d7e.png"
 This Project Are College Education..
 
 
